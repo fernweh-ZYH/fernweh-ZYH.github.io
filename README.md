@@ -1,2 +1,2 @@
-# fernweh-ZYH.github.io
+# fernwehzyh.github.io
 just a private website

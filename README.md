@@ -1,3 +1,3 @@
 # fernwehzyh.github.io
 I want a website.
-<fernwehzyh.github.io>
+[URL](fernwehzyh.github.io)
